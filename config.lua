@@ -15,4 +15,16 @@ Config.Stashes = {
          stashSize = 1250000,
          stashSlots = 125, 
      },
+     ["casino"] = {
+        stashName = "Stash",
+        coords = vector3(1000.8, 52.67, 75.06), 
+        requirecid = false,
+        jobrequired = true,
+        gangrequired = false,
+        gang = "professionals",
+        job = "",
+        cid = "",  
+        stashSize = 1250000,
+        stashSlots = 125, 
+    },
 }
